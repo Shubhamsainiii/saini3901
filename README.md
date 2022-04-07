@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **shubham39saini@gmail.com**
+- 📫 How to reach me **shubhamsaini.iiitv@gmail.com**
 
 - ⚡ Fun fact **I'm a volleyball player**
 
